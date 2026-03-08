@@ -1,0 +1,1155 @@
+{
+  "cookies": [
+    {
+      "name": "AEC",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1788424336,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-BUCKET",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1788424336,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "OTZ",
+      "value": "",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1775464489,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "gt",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1772881506,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "guest_id",
+      "value": "",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1807086922,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "guest_id",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1807086906,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "SNID",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/verify",
+      "expires": 1788683473,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1788424651,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1788424651,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1788424651,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "cmpl_token",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1778056686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "delay_guest_mode_vid",
+      "value": "",
+      "domain": ".www.tiktok.com",
+      "path": "/",
+      "expires": 1798792700,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "last_login_method",
+      "value": "",
+      "domain": "www.tiktok.com",
+      "path": "/",
+      "expires": 1780648687,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "multi_sids",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1778056686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "sessionid",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "sessionid_ss",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "sid_guard",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1803976686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "sid_tt",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "sid_ucp_v1",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "ssid_ucp_v1",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tt-target-idc-sign",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1804408688,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "tt_session_tlb_tag",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "uid_tt",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "uid_tt_ss",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tt_ticket_guard_has_set_public_key",
+      "value": "",
+      "domain": "www.tiktok.com",
+      "path": "/",
+      "expires": 1772959112,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "tiktok_webapp_theme",
+      "value": "",
+      "domain": ".www.tiktok.com",
+      "path": "/",
+      "expires": 1798792774,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "tiktok_webapp_theme_source",
+      "value": "",
+      "domain": ".www.tiktok.com",
+      "path": "/",
+      "expires": 1798792774,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "tt_chain_token",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424771,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "x-tt-n",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1772959158,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "perf_feed_cache",
+      "value": "",
+      "domain": ".www.tiktok.com",
+      "path": "/",
+      "expires": 1773477601,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "store-country-code",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "store-country-code-src",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "store-country-sign",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "store-idc",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "tt-target-idc",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1788424686,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "ttwid",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1804408799,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "cookie-consent",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1806568829,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "datr",
+      "value": "",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1807432878,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ig_did",
+      "value": "",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1804408878,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "mid",
+      "value": "",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1807432878,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "fr",
+      "value": "",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1780648962,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ps_l",
+      "value": "",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1807432949,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ps_n",
+      "value": "",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1807432949,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "sessionid",
+      "value": "",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1804408944,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "wd",
+      "value": "",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1773477754,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csrftoken",
+      "value": "",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1807433215,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "d_prefs",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1788425236,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "ds_user_id",
+      "value": "",
+      "domain": ".instagram.com",
+      "path": "/",
+      "expires": 1780649215,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "guest_id_ads",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1807087639,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "guest_id_marketing",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1807087639,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "personalization_id",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1807087639,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "msToken",
+      "value": "",
+      "domain": "www.tiktok.com",
+      "path": "/",
+      "expires": 1780649263,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "ACCOUNT_CHOOSER",
+      "value": "",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "APISID",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "APISID",
+      "value": "",
+      "domain": ".google.com.ng",
+      "path": "/",
+      "expires": 1807433337,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "APISID",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1807433336,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "HSID",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "HSID",
+      "value": "",
+      "domain": ".google.com.ng",
+      "path": "/",
+      "expires": 1807433337,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "HSID",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1807433336,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "LSID",
+      "value": "",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "NID",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1788683474,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "NID",
+      "value": "",
+      "domain": ".google.com.ng",
+      "path": "/",
+      "expires": 1788684537,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "SAPISID",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "SAPISID",
+      "value": "",
+      "domain": ".google.com.ng",
+      "path": "/",
+      "expires": 1807433337,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "SAPISID",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1807433336,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "SID",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "SID",
+      "value": "",
+      "domain": ".google.com.ng",
+      "path": "/",
+      "expires": 1807433337,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "SID",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1807433336,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "SMSV",
+      "value": "",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "SSID",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "SSID",
+      "value": "",
+      "domain": ".google.com.ng",
+      "path": "/",
+      "expires": 1807433337,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "SSID",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1807433336,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "__Host-1PLSID",
+      "value": "",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "__Host-3PLSID",
+      "value": "",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__Host-GAPS",
+      "value": "",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "",
+      "domain": ".google.com.ng",
+      "path": "/",
+      "expires": 1807433337,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "__Secure-1PAPISID",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1807433336,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "",
+      "domain": ".google.com.ng",
+      "path": "/",
+      "expires": 1807433337,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "__Secure-1PSID",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1807433336,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "__Secure-1PSIDTS",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804409336,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "",
+      "domain": ".google.com.ng",
+      "path": "/",
+      "expires": 1807433337,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__Secure-3PAPISID",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1807433336,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1807433335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "",
+      "domain": ".google.com.ng",
+      "path": "/",
+      "expires": 1807433337,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__Secure-3PSID",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1807433336,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__Secure-3PSIDTS",
+      "value": "",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804409336,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "IDE",
+      "value": "",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1807433355,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__cuid",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1807433347,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "att",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1772959742,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "auth_token",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1807087741,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ct0",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1807087741,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "value": "",
+      "domain": "x.com",
+      "path": "/",
+      "expires": 1788425339,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "kdt",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1807087741,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "twid",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1804409350,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "odin_tt",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1804409437,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "__cf_bm",
+      "value": "",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1772875260,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "SIDCC",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1804409675,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "__Secure-1PSIDCC",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1804409675,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": null
+    },
+    {
+      "name": "__Secure-3PSIDCC",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1804409675,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ym_d",
+      "value": "",
+      "domain": ".sannysoft.com",
+      "path": "/",
+      "expires": 1804409679,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ym_isad",
+      "value": "",
+      "domain": ".sannysoft.com",
+      "path": "/",
+      "expires": 1772945679,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ym_uid",
+      "value": "",
+      "domain": ".sannysoft.com",
+      "path": "/",
+      "expires": 1804409679,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "bh",
+      "value": "",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1807433679,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "i",
+      "value": "",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1807433679,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "yandexuid",
+      "value": "",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1807433679,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ymex",
+      "value": "",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1804409679,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "yuidss",
+      "value": "",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1807433679,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1804409694,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga",
+      "value": "",
+      "domain": ".pixelscan.net",
+      "path": "/",
+      "expires": 1807434552,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    },
+    {
+      "name": "msToken",
+      "value": "",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1773738757,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "SEARCH_SAMESITE",
+      "value": "",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1788426774,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_ZH1CYL80NM",
+      "value": "",
+      "domain": ".pixelscan.net",
+      "path": "/",
+      "expires": 1807434773,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": null
+    }
+  ],
+  "origins": []
+}

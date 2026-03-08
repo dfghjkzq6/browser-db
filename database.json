@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "created": "2026-03-08T03:22:00Z",
+    "version": "1.0.0",
+    "description": "Browser storage state database"
+  },
+  "storage_states": {
+    "current": {
+      "timestamp": "2026-03-08T03:22:00Z",
+      "source": "chromium",
+      "cookies_count": 152,
+      "file": "storagestate.json"
+    }
+  },
+  "sessions": [],
+  "profiles": []
+}
